@@ -1,0 +1,5 @@
+2021-11-29 21:22:07,282 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 21:22:07,287 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 21:22:07,289 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 21:22:08,208 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:08,257 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功

@@ -1,0 +1,4 @@
+2021-11-21 16:32:11,696 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除的sql:DELETE from classification_add where classification_name='测试001' 
+2021-11-21 16:32:12,304 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除的sql:DELETE from classification_add where classification_name='测试001' 
+2021-11-21 16:32:12,917 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除的sql:DELETE from classification_add where classification_name='测试001' 
+2021-11-21 16:32:13,533 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除的sql:DELETE from classification_add where classification_name='测试001' 

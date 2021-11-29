@@ -1,0 +1,23 @@
+2021-11-28 09:58:58,985 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-28 09:58:59,035 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-28 09:58:59,605 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-28 09:58:59,665 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-28 09:59:00,215 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-28 09:59:00,265 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-28 09:59:00,875 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-28 09:59:00,925 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-28 10:43:35,735 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-28 10:43:35,735 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-28 10:43:35,735 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-28 10:45:17,942 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-28 10:45:17,952 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-28 10:45:17,952 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-28 10:45:18,887 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-28 10:45:20,409 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:添加商品
+2021-11-28 10:45:20,458 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:下架商品
+2021-11-28 10:45:20,508 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:上架商品
+2021-11-28 10:45:20,558 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:重新下载商品
+2021-11-28 10:45:20,618 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:s删除商品
+2021-11-28 10:50:28,272 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-28 10:50:28,282 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-28 10:50:28,282 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}

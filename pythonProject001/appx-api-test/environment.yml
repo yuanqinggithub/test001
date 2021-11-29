@@ -1,0 +1,22 @@
+
+#测试线
+test:
+  host: https://backstageservices.dreawer.com
+  proxies:
+    http: http://127.0.0.1:8888
+    https: http://127.0.0.1:8888
+  phoneNumber: 15527060286
+  password: hbc23687
+  file_path: os.path.abspath(os.path.dirname(__file__)+'/image/111.png')
+
+#db:
+#    host:
+#      -192.168.1.173
+#    'user':
+#      -root
+#    'password':
+#      -123456
+#    'database':
+#      -appx
+#    'port':
+#      3310

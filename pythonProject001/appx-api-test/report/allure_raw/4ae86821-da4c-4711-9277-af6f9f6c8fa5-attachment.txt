@@ -1,0 +1,2 @@
+2021-11-29 21:22:09,497 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:09,541 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功

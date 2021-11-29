@@ -1,0 +1,5 @@
+2021-11-29 21:22:12,010 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:添加商品
+2021-11-29 21:22:12,111 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:下架商品
+2021-11-29 21:22:12,213 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:上架商品
+2021-11-29 21:22:12,316 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:重新下载商品
+2021-11-29 21:22:12,392 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:s删除商品

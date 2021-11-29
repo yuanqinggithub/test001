@@ -1,0 +1,47 @@
+2021-11-29 20:29:39,457 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:29:39,467 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:29:39,467 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:29:50,647 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:29:50,647 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:29:50,647 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:36:07,748 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:36:07,758 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:36:07,758 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:36:48,665 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:36:48,665 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:36:48,665 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:36:49,505 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 20:36:49,575 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 20:36:50,145 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 20:36:50,195 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 20:36:50,755 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 20:36:50,795 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 20:36:51,355 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 20:36:51,405 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 20:37:08,764 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:37:08,764 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:37:08,774 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:37:23,883 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 20:37:23,883 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 20:37:23,883 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 20:37:25,163 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:添加商品
+2021-11-29 20:37:25,233 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:下架商品
+2021-11-29 20:37:25,283 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:上架商品
+2021-11-29 20:37:25,343 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:重新下载商品
+2021-11-29 20:37:25,413 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:s删除商品
+2021-11-29 21:22:07,282 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-29 21:22:07,287 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-29 21:22:07,289 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-29 21:22:08,208 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:08,257 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 21:22:08,835 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:08,937 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 21:22:09,497 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:09,541 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 21:22:10,141 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:添加分类成功
+2021-11-29 21:22:10,191 [INFO] -- [test_classificationadd.py:test_classificationadd] -- message:删除分类成功
+2021-11-29 21:22:12,010 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:添加商品
+2021-11-29 21:22:12,111 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:下架商品
+2021-11-29 21:22:12,213 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:上架商品
+2021-11-29 21:22:12,316 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:重新下载商品
+2021-11-29 21:22:12,392 [INFO] -- [test_goodsadd.py:test_goodsadd] -- message:s删除商品
